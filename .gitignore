@@ -11,3 +11,4 @@
 *.pyc
 *.snm
 *.synctex.gz
+!*-resitev.pdf
