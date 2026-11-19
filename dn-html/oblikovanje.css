@@ -17,7 +17,11 @@ h1, h2 {
 
 /* Naslovi razdelkov */
 h2 {
+<<<<<<< HEAD
   color: #8b4513;
+=======
+  color: #1f4e79;
+>>>>>>> fe186136cc5e9dc830f885a254e30de0ca293739
   border-bottom: 1px solid #cccccc;
   clear: both;
 }
@@ -55,4 +59,8 @@ img {
   margin-top: 0.25em;
   font-size: 0.9em;
   color: #555555;
+<<<<<<< HEAD
+=======
+  font-style: italic;
+>>>>>>> fe186136cc5e9dc830f885a254e30de0ca293739
 }
